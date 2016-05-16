@@ -8,7 +8,8 @@ fi
 # User specific aliases and functions
 # ==================================
 # automatically enable devtoolset 
-source /opt/rh/devtoolset-2/enable
+#source /opt/rh/devtoolset-2/enable
+source /opt/rh/devtoolset-4/enable
 
 # linuxbrew 
 export PATH="$HOME/.linuxbrew/bin:$PATH"
